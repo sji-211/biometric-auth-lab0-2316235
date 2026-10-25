@@ -1,6 +1,6 @@
 # Biometric Authentication - Lab 0 (Anaconda)
  
-**Student:** Your Name (ID: 2316235)
+**Student:** Saja (ID: 2316235)
  
 ## Files
 - Lab0_Anaconda.ipynb - my notebook
